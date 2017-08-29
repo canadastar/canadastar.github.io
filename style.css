@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Playfair+Display');
+body{
+    font-family: 'Playfair Display', serif;
+}
+.container-fluid{
+    width: 100%;
+    height: 50%;
+    padding: 0;
+    margin: 0;
+}
+.well{
+    background: #C73F36;
+    width: 100%;
+    height: inherit;
+    padding: 0;
+}
+#nav{
+    background: #C73F36;
+    color: antiquewhite;
+}
+#background{
+    background: #C73F36;
+}
+.jumbotron{
+    background: #BC0B00;
+    margin: 0;
+  /*border: antiquewhite 3px solid;*/
+    
+}
+#main-head{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 100px;
+    color:antiquewhite;
+}
+#home{
+    background: antiquewhite;
+    width: 100%;
+    margin:0;
+    padding: 3%;
+}
+#about{
+    background: #C73F36;
+    color:antiquewhite;
+    width: 100%;
+    margin: 0;
+    padding: 3%;
+}
+#reviews{
+    background: antiquewhite;
+    width: 100%;
+    margin: 0;
+    padding: 3%;
+}
+#contact{
+    background: #C73F36;
+    color:antiquewhite;
+    width: 100%;
+    margin: 0;
+    padding: 3%;
+}
+footer{
+    text-align: center;
+    background: black;
+    color:antiquewhite;
+    width: 100%;
+    margin: 0;
+    padding: 1%;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
